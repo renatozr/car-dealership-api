@@ -7,7 +7,7 @@
     <br />
     <br />
     <a href="https://car-dealership-api-qqe5.onrender.com/documentation">View Demo</a>
-    <p>(The free deploy will spin down with inactivity, which can delay requests by 50 seconds or more)</p>
+    <p>(The free deploy spins down with inactivity, which can delay requests by 50 seconds or more)</p>
   </p>
 </div>
 
