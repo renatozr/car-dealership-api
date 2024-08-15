@@ -14,8 +14,7 @@
 
 ## About The Project
 
-To exercise clean back-end development.<br />
-TypeScript, OOP, Node, Express, MongoDB, Mongoose, Unit Testing, Swagger.
+To exercise back-end development and it's tools.
 
 <!-- GETTING STARTED -->
 
@@ -41,12 +40,11 @@ TypeScript, OOP, Node, Express, MongoDB, Mongoose, Unit Testing, Swagger.
    npm install
    ```
 4. Rename .env.example file to .env
-5. Fill in the environment variables
+5. Fill in the environment variables (example below)
    ```sh
-  # Example
-  PORT=3001
-  MONGODB_URI=mongodb://localhost:27017/CarDealership
-  SERVER_URL=http://localhost:3001
+    PORT=3001
+    MONGODB_URI=mongodb://localhost:27017/CarDealership
+    SERVER_URL=http://localhost:3001
    ```
 6. Run the project
    ```sh
