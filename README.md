@@ -15,7 +15,7 @@
 
 ## About The Project
 
-To exercise back-end development and it's tools.
+To exercise API unit testing, OOP and documentation with Swagger.
 
 <!-- GETTING STARTED -->
 
