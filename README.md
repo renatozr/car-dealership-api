@@ -3,7 +3,7 @@
   <h3 align="center">Car Dealership API</h3>
 
   <p align="center">
-    A REST API that handles vehicle data from a car dealership
+    An API that handles vehicle data from a car dealership
     <br />
     <br />
     <a href="https://car-dealership-api-qqe5.onrender.com/documentation">View Demo</a>
@@ -15,7 +15,7 @@
 
 ## About The Project
 
-To exercise API unit testing, OOP and documentation with Swagger.
+To exercise RESTful API development, unit testing, OOP and documentation with Swagger.
 
 <!-- GETTING STARTED -->
 
