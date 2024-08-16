@@ -6,7 +6,7 @@ const options: swaggerJsDoc.Options = {
     info: {
       title: 'Car Dealership API',
       version: '1.0.0',
-      description: 'A REST API that handles vehicle data from a car dealership',
+      description: 'An API that handles vehicle data from a car dealership',
     },
     servers: [
       {
